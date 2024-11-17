@@ -93,3 +93,6 @@ inventory_interface()
 
 ### Google Colab 
 https://colab.research.google.com/drive/1qwO0y6A-RRwq8fkU5Cze5sr-9mjc9eVV?usp=sharing
+
+###GUI Video
+https://drive.google.com/file/d/1KxxZR-Xvyyc7zPUOI1t98R0fkcPx82Vl/view?usp=drive_link
