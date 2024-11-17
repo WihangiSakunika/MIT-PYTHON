@@ -1,14 +1,15 @@
 import psycopg2
 import gradio as gr
 from datetime import datetime
+import mysql.connector
 
 # Database connection setup
 def connect_db():
-    return psycopg2.connect(
+    return mysql.connector.connect(
         host="localhost",
         database="madhumal_motors",
-        user="postgres",
-        password="1234"
+        user="root",
+        password=""
     )
 
 # 1. Add motorcycle to inventory
